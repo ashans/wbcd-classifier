@@ -1,2 +1,2 @@
-# wbcd_classifier
-Classifiers for WBCD dataset
+# Classifiers for WBCD dataset
+Classifier comparison for WBCD dataset
